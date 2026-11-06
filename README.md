@@ -22,8 +22,9 @@ Cheapest testing: 162
 Longest chain: 44
 ```
 
-My outbreak report (a screenshot of `![outbreak](output/outbreak.png)`):
+My outbreak report (a screenshot of `output/outbreak.png`):
 
+![outbreak](output/outbreak.png)
 
 
 ## Questions
