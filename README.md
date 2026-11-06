@@ -88,7 +88,7 @@ n is the length of the text (or of a strain), m the length of the pattern, k the
 ## Before you submit
 
 - [x] `java tools/Check.java` shows all examples right.
-- [ ] The four files in `data` and the screenshot `output/outbreak.png` are in the repository.
+- [x] The four files in `data` and the screenshot `output/outbreak.png` are in the repository.
 - [x] This README is filled in, the program output and the section AI use included.
-- [ ] The work is pushed to main (at least one commit per mission) and the repository is public.
-- [ ] The link is attached in Moodle.
+- [x] The work is pushed to main (at least one commit per mission) and the repository is public.
+- [x] The link is attached in Moodle.
